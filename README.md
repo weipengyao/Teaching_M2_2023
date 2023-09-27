@@ -1,2 +1,18 @@
 # Teaching_M2_2023
-Materials used in the teaching of *numerical methods* for the Master 2 students at Sorbonne University during academic year 2023-2024
+Materials used in the teaching of **Numerical Methods** for the Master 2 students at Sorbonne University during academic year 2023-2024
+
+Based on **Kinetic Simulation of Plasmas using Particle-in-cell (PIC) code** [by Anna Grassi, Mickael Grech]
+
+- implement the particle pusher using the Boris algorithm [J. P. Boris, Proc. Fourth Conf. Num. Sim. Plasmas 3-67 (1970)]
+  - gyro-motion
+  - ExB drift
+  - magnetic reconnection
+  - relativistic regime
+  - energy conservation
+
+
+- Electromagnetic fields propagation via Finite-Difference Time-Domain (FDTD) method [A. Taflove, Computation electrodynamics: The finite-difference time-domain method, 3rd Ed. (2005)]
+
+  - boundary conditions
+  - source terms with only E vs. both E and B
+  - vectorization the for-loops
