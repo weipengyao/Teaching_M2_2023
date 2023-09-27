@@ -13,6 +13,6 @@ Based on **Kinetic Simulation of Plasmas using Particle-in-cell (PIC) code** [by
 
 - Electromagnetic fields propagation via Finite-Difference Time-Domain (FDTD) method [A. Taflove, Computation electrodynamics: The finite-difference time-domain method, 3rd Ed. (2005)]
 
-  - boundary conditions
+  - boundary conditions [Mur, Gerrit. "Absorbing boundary conditions for the finite-difference approximation of the time-domain electromagnetic-field equations." IEEE transactions on Electromagnetic Compatibility 4 (1981): 377-382.]
   - source terms with only E vs. both E and B
   - vectorization the for-loops
