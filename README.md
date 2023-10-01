@@ -19,4 +19,5 @@ Based on **Kinetic Simulation of Plasmas using Particle-in-cell (PIC) code** [by
   - vectorization the for-loops
 
 ### Lecture 03
-Landau damping of Langmuir waves with **SMILEI**
+- Landau damping of Langmuir waves with **SMILEI**
+- bump-on-tail instability with **SMILEI**
